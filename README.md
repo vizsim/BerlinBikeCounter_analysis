@@ -14,5 +14,4 @@ https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_temp_cnt_monate.
 https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_month_cnt_interactive.html
 
 ### Temperatur und Radfahrende - Regen (7-19Uhr, werktag)  
-
-https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_month_cnt_regen.html
+https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_temp_cnt_regen.html
