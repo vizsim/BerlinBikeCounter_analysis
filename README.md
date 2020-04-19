@@ -15,3 +15,15 @@ https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_month_cnt_intera
 
 ### Temperatur und Radfahrende - Regen (7-19Uhr, werktag)  
 https://vizsim.github.io/BerlinBikeCounter_analysis/berlin_bike_temp_cnt_regen.html
+
+
+
+### Corona-Auswirkungen Analyse
+
+Offenbar ist der Radverkehr, im Gegensatz im MIV und ÖV, von Corona kaum negative betroffen. 
+
+Zurückgegangen ist der Radverkehr an den ansonsten von Pendlern stark genutzten Zählstellen Invalidenstraße und Jannowitzbrücke.
+
+Hingegen ist ein zum Teil Starkes Wachstum am Breitenbachplatz oder am Paul und Paula Uferweg.
+
+https://vizsim.github.io/BerlinBikeCounter_analysis/out_corona_dash_v01.html
